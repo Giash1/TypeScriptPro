@@ -1,13 +1,12 @@
 {
   "name": "typescriptpro",
   "version": "1.0.0",
-  "description": "",
+  "description": "Validation email, validation ZIP, Creat Heading, Formating Price, Lowercase, Prime, Genetive, Async",
   "main": "index.js",
   "scripts": {
-"test": "jest",
-"test:watch": "jest --watchAll"
-},
-
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
   "author": "giash",
   "license": "ISC",
   "devDependencies": {
@@ -16,5 +15,13 @@
     "ts-jest": "^29.1.1",
     "ts-node": "^10.9.1",
     "typescript": "^5.3.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Giash1/TypeScriptPro.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Giash1/TypeScriptPro/issues"
+  },
+  "homepage": "https://github.com/Giash1/TypeScriptPro#readme"
 }
