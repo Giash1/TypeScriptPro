@@ -19,14 +19,6 @@ npm i --save-dev ts-jest
 Go in i tsconfig.json:
 Change noImplicitAny till true
 Update package.json
-Nu är du redo att skriva ditt första testfall :)
-Uppgifter
-1. Validate email
-Skriv testfall till, och implementera, en funktion som validerar en e-postadress:
-2. Validate ZIP
-Skriv testfall till, och implementera, en funktion som validerar ett postnummer som kommer in
-som en sträng:
-3. Skapa Heading
-Skriv testfall till, och implementera, en funktion som ska skapa HTML- rubriker. Exempel:
-# Skapa jest.config.js
+
+# Create jest.config.js
 npx ts-jest config:init
