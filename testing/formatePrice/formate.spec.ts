@@ -2,6 +2,7 @@
 import { roundPrice } from './formate';
 
 
+
 describe('roundPrice', () => {
     it('should round to two decimal places and add SEK if no format is provided', () => {
         expect(roundPrice(232.10542)).toEqual('232.11 SEK');
